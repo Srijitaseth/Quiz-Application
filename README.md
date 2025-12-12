@@ -1,3 +1,6 @@
+# Real-life Vercel Deployment
+- https://quiz-application-sepia-one.vercel.app
+
 # Quiz Application – README
 
 This project is an interactive quiz application built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. It includes animated UI elements, custom SVG/GIF assets, multi-step question flow, score calculation, and a polished visual design closely replicating a provided reference.
@@ -82,5 +85,4 @@ Building for Production
 npm run build
 npm start
 
-Real-life Vercel Deployment
-(Insert deployed Vercel link here)
+
